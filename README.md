@@ -18,7 +18,7 @@ gibi ogretilen konulari siklikla kullanmaya ve pratik yapmaya gayret ediyorum. U
 
 `Odevin gorselini gorebilirsiniz;`
 
-![Odevin gorseli;](assets/patika-cssOdev-google.png)
+![Odevin gorseli;](assets/patika-googleBetaOdev.png)
 
 *[Patika.dev profilimi buradan ziyaret edebilirsiniz!](https://app.patika.dev/nomad)* 
 
